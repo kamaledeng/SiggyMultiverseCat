@@ -31,3 +31,10 @@ Now fetch me some catnip. The void grows hungry.
 - Poe AI
 - Claude Haiku
 - Custom personality prompt
+- ## Project Info
+
+This project was created for the Ritual community event **Engineer Siggy's Soul**.
+
+The goal was to design a chaotic and mystical AI personality inspired by Siggy, the multidimensional cat.
+
+Created by: kamaledeng
