@@ -1,4 +1,7 @@
 # SiggyMultiverseCat 🐈‍⬛
+## Screenshot
+
+![Siggy Chat](siggy-chat.png)
 
 SiggyMultiverseCat is a chaotic cosmic cat AI created for the Ritual quest **Engineer Siggy's Soul**.
 
